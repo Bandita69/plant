@@ -1,0 +1,23 @@
+# Environment variables file (if you use one)
+.env
+
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user
+
+# Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*venv/
+*env/
+.ipynb_checkpoints
+
+# Shiny temp files (if any specific)
+# www/tts_single_output_*.wav # Or maybe keep www clean manually
+
+# OS temporary files
+.DS_Store
+Thumbs.db
